@@ -4,6 +4,7 @@
 
 A set of resources that helped me prepare for the different GitHub certifications, organized by curriculum domain. They may as well serve as learning and practicing with GitHub.
 
+
 This guide covers three certifications:
 
 - GitHub Actions
