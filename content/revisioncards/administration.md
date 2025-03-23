@@ -264,3 +264,14 @@ This section will talk about how to manage GitHub Actions for the enterprise; un
   - **Normal** - tickets request account recovery or spam unflagging, report user login issues and non-critical bugs.
   - **Low** - tickets ask general questions and submit requests for new features, purchases, training, or health checks.
  - When creating a ticket, try to include information like the exact error message, steps to reproduce the error and any special circumstances about the discovery of the error.
+
+## Advanced Topics
+
+- **Audit Logs**: Monitor and analyze activities within your organization.
+- **SCIM Integration**: Automate user provisioning and deprovisioning.
+- **Billing Management**: Manage costs effectively with roles like billing manager.
+
+## Resources
+
+- [GitHub Administration Documentation](https://docs.github.com/en/organizations)
+- [GitHub Enterprise Administration Guide](https://docs.github.com/en/enterprise-server)

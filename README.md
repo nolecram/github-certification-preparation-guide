@@ -4,14 +4,15 @@
 
 A set of resources that helped me prepare for the different GitHub certifications, organized by curriculum domain. They may as well serve as learning and practicing with GitHub.
 
-
-This guide covers three certifications:
+This guide covers five certifications:
 
 - GitHub Actions
 - GitHub Advanced Security
 - GitHub Administration
+- GitHub Copilot
+- GitHub Foundation
 
-You will find **[guides, test exams and revision cards here](content/readme.md).**
+You will find **[guides, test exams, and revision cards here](content/readme.md).**
 
 <img src="./content/media/force.jpg"  width="1173"/>
 

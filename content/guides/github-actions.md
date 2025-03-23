@@ -13,6 +13,17 @@ I recommend the book "GitHub Actions : a practical guide" (exists in [english](h
 
 In addition, I recommend [this module](https://docs.microsoft.com/en-us/learn/modules/manage-github-actions-enterprise/introduction) which is not in the learning path but present in the exam.
 
+## Additional Topics
+
+- **Matrix Builds**: Learn how to test across multiple environments using matrix strategies.
+- **Artifacts**: Understand how to upload and download artifacts between jobs.
+- **Environment Protections**: Configure rules like required reviewers and wait timers for secure deployments.
+
+## Resources
+
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [GitHub Actions Examples](https://github.com/actions/starter-workflows)
+
 ## Test exam
 
 When you are ready, you can test your skills with the [test exam](../exams/github-actions.md).

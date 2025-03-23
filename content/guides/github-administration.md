@@ -22,3 +22,14 @@ I recommend the [Microsoft Learn path](https://docs.microsoft.com/en-us/users/gi
 ## Test exam
 
 When you are ready, you can test your skills with the [test exam](../exams/github-administration.md).
+
+## Additional Topics
+
+- **Audit Logs**: Learn how to monitor and analyze activities within your organization.
+- **Billing Management**: Understand roles like billing manager and how to manage costs effectively.
+- **SCIM Integration**: Automate user provisioning and deprovisioning with SCIM.
+
+## Resources
+
+- [GitHub Administration Documentation](https://docs.github.com/en/organizations)
+- [GitHub Enterprise Administration Guide](https://docs.github.com/en/enterprise-server)

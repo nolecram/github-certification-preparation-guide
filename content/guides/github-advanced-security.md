@@ -22,3 +22,14 @@ I recommend the [Microsoft Learn path](https://docs.microsoft.com/en-us/users/gi
 ## Test exam
 
 When you are ready, you can test your skills with the [test exam](../exams/github-advanced-security.md).
+
+## Additional Topics
+
+- **Push Protection**: Prevent secrets from being pushed to repositories.
+- **Custom CodeQL Queries**: Write and use custom queries for advanced code scanning.
+- **Security Overview Dashboard**: Use the dashboard to monitor and manage security alerts across repositories.
+
+## Resources
+
+- [GitHub Advanced Security Documentation](https://docs.github.com/en/code-security)
+- [CodeQL Documentation](https://codeql.github.com/docs/)

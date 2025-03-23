@@ -160,3 +160,14 @@
 - It can do basically everything in GitHub.
 - The difference when using GitHub script over octokit is this: ```octokit.issues.createComment({``` compared to: ```github.issues.createComment({```.
 - When using a script you can reference the script from a specific loication.
+
+## Advanced Topics
+
+- **Matrix Builds**: Use matrix strategies to test across multiple environments.
+- **Environment Protections**: Configure rules like required reviewers and wait timers for secure deployments.
+- **GitHub Script**: Leverage Octokit for advanced API interactions directly in workflows.
+
+## Resources
+
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [GitHub Actions Examples](https://github.com/actions/starter-workflows)
